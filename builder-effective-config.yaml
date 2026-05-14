@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.zangame.app
+productName: ZAN Game
+win:
+  target: nsis
+  icon: icon.ico
+files: []
+electronVersion: 42.0.1
